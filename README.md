@@ -12,12 +12,17 @@ Firstly, we need to get the list of neighbourhoods in the city of Toronto, Canad
 city name by grouping the rows by city name and taking the mean of the frequency of
 occurrence of each venue category. From there, the data was clustered for using the housing development. Finally, clustering on the data was performed using k-means clustering. It used k numbers of centroids and had 3 clusters. This result will show us how many housing developments there were per cluster. 
 
-4)Results
+4) Results
+There are 110 with Cluster Labels=0.
+There are 6 with Cluster Labels=1.
+There are 12 with Cluster Labels=2.
 
-5)Discussions
 
-6)Conclusion
+5) Discussions
+In the Discussion, we will discuss our results. Based of the clusters, you can see cluster label 0 has 110 housing developments. From that we can concur, that most the population lives in this cluster neighborhood. line 44 gives specific citynames. 
 
+6) Conclusion
+Based on population, it would be best to start a new business where there is a highly dense neighborhoods of clusters. This can be found in label 0. 
 
 
  
